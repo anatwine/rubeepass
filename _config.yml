@@ -1,0 +1,8 @@
+title: RubeePass
+description: Ruby KeePass 2.x implementation. Currently it is read-only.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
