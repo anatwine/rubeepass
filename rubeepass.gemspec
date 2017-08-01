@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
     s.add_runtime_dependency("djinni", "~> 2.0", ">= 2.0.2")
     s.add_runtime_dependency("hilighter", "~> 1.1", ">= 1.1.0")
     s.add_runtime_dependency("json_config", "~> 0.1", ">= 0.1.2")
-    s.add_runtime_dependency("os", "~> 1.0", ">= 1.0.0")
+    s.add_runtime_dependency("os", "~> 0.9", ">= 0.9")
     s.add_runtime_dependency("salsa20", "~> 0.1", ">= 0.1.2")
     s.add_runtime_dependency("scoobydoo", "~> 0.1", ">= 0.1.4")
 end
